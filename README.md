@@ -2,7 +2,7 @@
 #solve scale balance problem
 #assumption numbers are in single digit or in the range of int but still used templates
 #inputs are read from standard input and output is printed on the standard output
-#assumption is we only have scale node as non-leaf node but still no exception is raised and its 0 is assumed
+#assumption is, we only have scale node as non-leaf node but still no exception is raised and its 0 value is assumed
 
 
 It is compiled and executed in my programming setup with below command
